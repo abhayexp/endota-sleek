@@ -20,13 +20,13 @@
             "image_overlay_opacity": 0,
             "content_position": "middle-center",
             "text_alignment": "center",
-            "title": "Image slide",
+            "title": "<strong>20% OFF</strong>",
             "heading_size": "hd1",
             "subheading": "",
-            "description": "<p>Tell your brand's story through images</p>",
+            "description": "<p>SKIN & WELLNESS PRODUCTS</p>",
             "description_size": "text-base",
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "Shop Now",
+            "button_link": "shopify://collections/all",
             "button_style": "btn--primary"
           }
         },
@@ -107,27 +107,35 @@
             "title": "Tab name",
             "collection": ""
           }
+        },
+        "tab_ExKVWF": {
+          "type": "tab",
+          "settings": {
+            "title": "",
+            "collection": ""
+          }
         }
       },
       "block_order": [
         "tab_Yz8Mnz",
         "tab_9cGBUe",
-        "tab_AfgNn8"
+        "tab_AfgNn8",
+        "tab_ExKVWF"
       ],
       "settings": {
         "color_scheme": "",
         "header_layout": "horizontal",
         "heading": "",
-        "heading_size": "h1",
+        "heading_size": "h5",
         "heading_highlight_style": "none",
-        "limit": 8,
-        "columns": 4,
+        "limit": 6,
+        "columns": 3,
         "column_gap": "extra-small",
         "row_gap": "inherit",
         "grid_layout": "standard",
         "pcard_image_ratio": "",
         "columns_mobile": "2",
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "show_all_button_on_top": true,
         "button_label": "Button label",
         "button_link": "",
