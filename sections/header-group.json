@@ -96,47 +96,10 @@
             "product_list": [],
             "heading": ""
           }
-        },
-        "product_list_BfA8AF": {
-          "type": "product_list",
-          "settings": {
-            "menu_title": "shop",
-            "collections": [
-              "body-personal-care"
-            ],
-            "menu_columns": 3,
-            "show_menu_column_divider": true,
-            "promotions_width": 38,
-            "number_of_columns": 3,
-            "product_list": [
-              "bee-pollen-100g-2022",
-              "aloe-vera-hair-oil-100-ml-with-comb",
-              "body-firming-lotion",
-              "mens-casual-premium-slim-fit-t-shirts"
-            ],
-            "heading": ""
-          }
-        },
-        "product_list_jeBgnk": {
-          "type": "product_list",
-          "settings": {
-            "menu_title": "shop",
-            "collections": [
-              "body-personal-care"
-            ],
-            "menu_columns": 3,
-            "show_menu_column_divider": true,
-            "promotions_width": 38,
-            "number_of_columns": 3,
-            "product_list": [],
-            "heading": ""
-          }
         }
       },
       "block_order": [
-        "product_list_RDm86Y",
-        "product_list_BfA8AF",
-        "product_list_jeBgnk"
+        "product_list_RDm86Y"
       ],
       "settings": {
         "container": "fixed",
