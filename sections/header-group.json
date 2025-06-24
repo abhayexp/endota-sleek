@@ -101,7 +101,7 @@
         "custom_card_UDiWVH": {
           "type": "custom_card",
           "settings": {
-            "menu_title": "",
+            "menu_title": "shop",
             "menu_columns": 3,
             "promotions_width": 38,
             "promotion_columns": 1,
