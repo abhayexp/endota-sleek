@@ -97,10 +97,43 @@
             "product_list": [],
             "heading": "ak"
           }
+        },
+        "custom_card_UDiWVH": {
+          "type": "custom_card",
+          "settings": {
+            "menu_title": "",
+            "menu_columns": 3,
+            "promotions_width": 38,
+            "promotion_columns": 1,
+            "promo_image_1": "shopify://shop_images/fashion-model-in-red-suit.jpg",
+            "heading_1": "",
+            "heading_size_1": "h5",
+            "description_1": "",
+            "promotion_link_1": "",
+            "promo_image_2": "shopify://shop_images/pink-lip-gloss.jpg",
+            "heading_2": "",
+            "heading_size_2": "h5",
+            "description_2": "",
+            "promotion_link_2": "",
+            "promo_image_3": "shopify://shop_images/fashion-model-looks-at-camera.jpg",
+            "heading_3": "",
+            "heading_size_3": "h5",
+            "description_3": "",
+            "promotion_link_3": "",
+            "heading_4": "",
+            "heading_size_4": "h5",
+            "description_4": "",
+            "promotion_link_4": "",
+            "heading_5": "",
+            "heading_size_5": "h5",
+            "description_5": "",
+            "promotion_link_5": ""
+          }
         }
       },
       "block_order": [
-        "product_list_RDm86Y"
+        "product_list_RDm86Y",
+        "custom_card_UDiWVH"
       ],
       "settings": {
         "container": "fixed",
