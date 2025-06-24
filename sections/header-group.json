@@ -84,6 +84,7 @@
       "blocks": {
         "product_list_RDm86Y": {
           "type": "product_list",
+          "name": "mega menu",
           "settings": {
             "menu_title": "shop",
             "collections": [
@@ -91,10 +92,10 @@
             ],
             "menu_columns": 3,
             "show_menu_column_divider": true,
-            "promotions_width": 38,
+            "promotions_width": 56,
             "number_of_columns": 3,
             "product_list": [],
-            "heading": ""
+            "heading": "ak"
           }
         }
       },
